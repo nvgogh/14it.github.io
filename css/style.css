@@ -43,10 +43,8 @@
 /* brand */
 
 #brand-container {
-	/*background-color: #0a193d;*/
 	color: black !important;
-	padding-top: 80px;
-	padding-bottom: 80px;
+	padding: 80px;
 }
 
 #brand-row img{
@@ -84,10 +82,8 @@
 }
 
 #application-container {
-	/*background-color: #0a193d;*/
 	color: black !important;
-	padding-top: 80px;
-	padding-bottom: 80px;
+	padding: 80px;
 }
 
 #application-row img{
@@ -126,8 +122,7 @@
 /* contact */
 
 #contact {
-	padding-top: 80px;
-	padding-bottom: 80px;
+	padding: 80px;
 }
 
 	#contact h1 {
